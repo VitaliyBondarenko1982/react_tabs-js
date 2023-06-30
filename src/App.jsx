@@ -12,7 +12,7 @@ export const tabs = [
 export const App = () => (
   <div className="section">
     <h1 className="title">
-      Selected tab is Tab 1
+      Selected tab is Tab 12
     </h1>
 
     <div data-cy="TabsComponent">
